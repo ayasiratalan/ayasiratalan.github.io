@@ -24,7 +24,7 @@ title: Abdullah Yasir Atalan                         # the main title
 tagline: Personal Website   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-PhD student in Political Science housed in School of Public Affairs, AU
+  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'ayasiratalan.github.io'
